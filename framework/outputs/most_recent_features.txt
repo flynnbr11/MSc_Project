@@ -1,0 +1,7 @@
+"c(user_features, numeric_user_features, session_features, numeric_session_features)"
+"1" "fieldDeviceTypeLast"
+"2" "fieldPlatformLast"
+"3" "daysPlayedLast7Days"
+"4" "gender"
+"5" "number_of_events"
+"6" "total_time_ms"
